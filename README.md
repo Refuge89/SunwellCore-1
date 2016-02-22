@@ -1,6 +1,7 @@
 # SunwellCore
 # Created by xinef & pussywizard
 # www.sunwell.pl
+# Not my work and is unlikely to get updated by me.
 
 INFORMATIONS FOR INTERESTED DEVELOPERS:
 
